@@ -1,0 +1,4 @@
+lets brainstorm train station route simulator. the ui is in web, later there will be helicopter view of station's tracks. later the train that will enter will request to either pass, stop by, or last stop, or reparation at the station. user's job only mapping which route they will be assigned. there are turn table, wessels, etc. lets brainstorm. react js vite typesciprt tailwind. and animation train moving. and theres animation collide train. in the first game, user will choose which station he pick, and the specs (maybe 3 main active tracks, 2 passive track, 2 reparation track, 1 turn table) variative depends on station level chosen
+
+make the prompt to claude, later claude will slicing only. later opencode will be continue the code. and make sure the screen is able to full screen and width is full width website (not limited like 1280px or 1366px) the height is 100vh, so user will not scroll it. file readme.md 
+
